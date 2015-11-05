@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">temperature</string>
+    <string name="MainActivity_add">Add</string>
+</resources>

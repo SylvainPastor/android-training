@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">guide</string>
+    <string name="activity_main_text_title"><![CDATA[Hotels & Restaurants]]></string>
+    <string name="activity_home_btn_restaurant">RESERVER UN RESTAURANT</string>
+    <string name="activity_home_btn_hotel">RESERVER UN HOTEL</string>
+    <string name="activity_home_btn_1"><b>Hotel resto</b>\nRetrouvez les meilleurs hotels et restos</string>
+    <string name="activity_listing_txtview_resto">Les restaurants</string>
+    <string name="activity_listing_txtview_latin">Et quoniam mirari posse quosdam peregrinos existimo haec lecturos forsitan, si contigerit, quamobrem cum oratio ad ea monstranda deflexerit quae Romae gererentur, nihil praeter seditiones narratur et tabernas et vilitates harum similis alias, summatim causas perstringam nusquam a veritate sponte propria digressurus.</string>
+</resources>
